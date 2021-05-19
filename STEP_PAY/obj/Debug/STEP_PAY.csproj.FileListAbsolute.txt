@@ -13,3 +13,10 @@ C:\Users\AdmiN\Source\Repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY.csproj
 C:\Users\AdmiN\Source\Repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY.csproj.CoreCompileInputs.cache
 C:\Users\AdmiN\Source\Repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY.exe
 C:\Users\AdmiN\Source\Repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY.pdb
+C:\Users\chhel\Source\Repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY.csprojAssemblyReference.cache
+C:\Users\chhel\Source\Repos\khmelinin\StepPay\STEP_PAY\obj\Debug\MainWindow.g.cs
+C:\Users\chhel\Source\Repos\khmelinin\StepPay\STEP_PAY\obj\Debug\App.g.cs
+C:\Users\chhel\Source\Repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY_MarkupCompile.cache
+C:\Users\chhel\Source\Repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY_MarkupCompile.lref
+C:\Users\chhel\Source\Repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY.exe
+C:\Users\chhel\Source\Repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY.pdb
