@@ -20,3 +20,17 @@ C:\Users\chhel\Source\Repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY_Markup
 C:\Users\chhel\Source\Repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY_MarkupCompile.lref
 C:\Users\chhel\Source\Repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY.exe
 C:\Users\chhel\Source\Repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY.pdb
+C:\Users\chhel\source\repos\khmelinin\StepPay\STEP_PAY\bin\Debug\STEP_PAY.exe.config
+C:\Users\chhel\source\repos\khmelinin\StepPay\STEP_PAY\bin\Debug\STEP_PAY.exe
+C:\Users\chhel\source\repos\khmelinin\StepPay\STEP_PAY\bin\Debug\STEP_PAY.pdb
+C:\Users\chhel\source\repos\khmelinin\StepPay\STEP_PAY\obj\Debug\MainWindow.baml
+C:\Users\chhel\source\repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY.g.resources
+C:\Users\chhel\source\repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY.Properties.Resources.resources
+C:\Users\chhel\source\repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY.csproj.GenerateResource.cache
+C:\Users\chhel\source\repos\khmelinin\StepPay\STEP_PAY\obj\Debug\STEP_PAY.csproj.CoreCompileInputs.cache
+C:\Users\chhel\source\repos\khmelinin\StepPay\STEP_PAY\obj\Debug\Login.g.cs
+C:\Users\chhel\source\repos\khmelinin\StepPay\STEP_PAY\obj\Debug\Registration.g.cs
+C:\Users\chhel\source\repos\khmelinin\StepPay\STEP_PAY\obj\Debug\Welcome.g.cs
+C:\Users\chhel\source\repos\khmelinin\StepPay\STEP_PAY\obj\Debug\Login.baml
+C:\Users\chhel\source\repos\khmelinin\StepPay\STEP_PAY\obj\Debug\Registration.baml
+C:\Users\chhel\source\repos\khmelinin\StepPay\STEP_PAY\obj\Debug\Welcome.baml

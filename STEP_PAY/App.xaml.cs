@@ -11,7 +11,9 @@ namespace STEP_PAY
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
-    public partial class App : Application
+    public partial class MainWindow : Window
     {
+       
+
     }
 }
